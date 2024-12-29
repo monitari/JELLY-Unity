@@ -1,6 +1,6 @@
 # Unity Idle Game - Jelly Growing Game
 
-![image](https://github.com/user-attachments/assets/833f5dfb-4dd6-4872-994e-47f4b6a6c303)
+![image](https://github.com/user-attachments/assets/d753fca3-14eb-4ae9-809a-ce09b93d2c0a)
 
 This project is a step-by-step implementation of an idle game, following the Unity tutorial series by **골드메탈**. The series uses **Unity Bolt (Now Visual Scripting)** and focuses on creating a jelly-growing game with interactive gameplay, A.I., and a variety of systems.
 
